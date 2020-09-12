@@ -1,6 +1,8 @@
 # CCNA2020_SW
 switcher
 
+![sw 10ports](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_SW/master/10-ports.png)
+
 # Flooding
 
 交換機收到影格會根據 MAC table 將影格傳送到對應到適合處理的阜，倘若沒有學習過，則採用泛洪 flooding to all ports。
